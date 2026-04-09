@@ -8,5 +8,5 @@
 #header {
     grid-area: h;
     display: grid;
-    background: blue;
+    background-color: blue;
 }
