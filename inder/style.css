@@ -9,4 +9,5 @@
     grid-area: h;
     display: grid;
     background-color: blue;
+    border-radius: 10px;
 }
