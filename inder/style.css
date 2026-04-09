@@ -1,0 +1,8 @@
+#wrapper {
+    display: grid;
+}
+
+#header {
+    display: grid;
+    background: blue;
+}
