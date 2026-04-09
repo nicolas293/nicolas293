@@ -1,8 +1,12 @@
 #wrapper {
     display: grid;
+    grid-template-rows: 60px, 70px;
+    grid-template-areas: 
+        "h h h h h h h h h h";
 }
 
 #header {
+    grid-area: h;
     display: grid;
     background: blue;
 }
