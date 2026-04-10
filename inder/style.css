@@ -2,7 +2,7 @@
     display: grid;
     grid-template-rows: 60px;
     grid-template-areas: 
-        "h h h h h h h h h h"
+        "h h h h h h h h h h";
 }
 
 #header {
