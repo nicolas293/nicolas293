@@ -1,6 +1,7 @@
 #wrapper {
     display: grid;
     grid-template-rows: 60px;
+    grid-gap: 5px;
     grid-template-areas: 
         "h h h h h h h h h h"
         "E E E E E E E E E E";
