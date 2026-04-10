@@ -19,7 +19,8 @@
 
 #EadImg {
     display: grid;
+    grid-area: 1 / 2;
     border-radius: 10px;
     grid-template-areas: 
-        "E E E . .";
+        "E E E E E E";
 }
