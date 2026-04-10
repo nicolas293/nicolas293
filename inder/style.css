@@ -21,5 +21,5 @@
     display: grid;
     border-radius: 10px;
     grid-template-areas: 
-        "E E E E E";
+        "E E E E E . . . . .";
 }
