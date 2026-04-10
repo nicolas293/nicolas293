@@ -20,7 +20,7 @@
 
 #EadImg {
     display: grid;
-    grid-area: 1 / 2;
+    grid-area: 1 / 1;
     border-radius: 10px;
     grid-template-areas: 
         "E E E E E E E E E E E";
