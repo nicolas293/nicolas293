@@ -3,7 +3,6 @@
     grid-template-rows: 60px;
     grid-template-areas: 
         "h h h h h h h h h h"
-        "E E E E E";
 }
 
 #header {
@@ -21,4 +20,6 @@
 #EadImg {
     display: grid;
     border-radius: 10px;
+    grid-template-areas: 
+        "E E E E E";
 }
